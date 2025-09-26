@@ -20,7 +20,7 @@ npm install @mui/material @mui/icons-material @emotion/react @emotion/styled @re
 
 ## File Structure
 
-hospital-management/
+hospital-management/ 
 ├── __tests__/
 │   ├── components/PatientForm.test.js
 │   └── pages/login.test.js
